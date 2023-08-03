@@ -1,0 +1,11 @@
+{
+    "name": "amsterdamphp/static-site",
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "tightenco/jigsaw": "^1.7"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
