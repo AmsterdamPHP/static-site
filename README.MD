@@ -21,6 +21,8 @@
     - CTA Sponsor us somewhere
     - CTA Signup as speaker somewhere
     - Our mission statement at the bottom (like on current site)
+- [ ] Deployment pipeline
+- [ ] Setup server to host the damn thing
 
 ## Documentation
 
